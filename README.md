@@ -27,4 +27,4 @@ wd: wind direction
 WSPM: wind speed (m/s)
 station: name of the air-quality monitoring site
 
-Recuperado de: https://archive.ics.uci.edu/ml/datasets/Beijing+Multi-Site+Air-Quality+Data
+Source: https://archive.ics.uci.edu/ml/datasets/Beijing+Multi-Site+Air-Quality+Data
